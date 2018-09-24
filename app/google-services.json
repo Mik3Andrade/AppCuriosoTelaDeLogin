@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "448027295201",
+    "firebase_url": "https://teste-tela-de-login.firebaseio.com",
+    "project_id": "teste-tela-de-login",
+    "storage_bucket": "teste-tela-de-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448027295201:android:055d13bbbb3c7124",
+        "android_client_info": {
+          "package_name": "com.curioso.testelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448027295201-ecrpughjmuhgvtfdfd6lkncm8dr363gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.curioso.testelogin",
+            "certificate_hash": "fc15ee836860a02f70c39fb7adc9c0ccc5bdeec7"
+          }
+        },
+        {
+          "client_id": "448027295201-l14dfq43uf50c3dt1iqn8vl0n22ptg6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfoudnIvwzFQRK8Fj3XViHi6vqchUxg0s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448027295201-l14dfq43uf50c3dt1iqn8vl0n22ptg6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
